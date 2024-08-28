@@ -128,7 +128,7 @@ const AboutUsSection: React.FC = () => {
       id="whoweare"
       className="relative bg-gray-50 py-20 px-4 lg:px-0"
     >
-      <div className="container mx-auto">
+      <div className="container mx-auto px-5">
         <div className="text-center mb-12">
           <motion.h2
             className="text-4xl lg:text-5xl font-bold text-gray-800"
