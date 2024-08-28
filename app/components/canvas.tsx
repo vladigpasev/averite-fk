@@ -73,6 +73,17 @@ const CanvasSection: React.FC = () => {
                         </div>
                     </motion.div>
                 </div>
+
+                <div className="flex justify-center mt-8">
+                    <a
+                        href="https://miro.com/app/live-embed/uXjVKmCggJs=/?moveToViewport=-1002,-542,2080,1461&embedId=667524784953"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="bg-blue-600 text-white px-6 py-3 rounded-md text-lg font-semibold hover:bg-blue-700 transition duration-300"
+                    >
+                        Виж на цял екран
+                    </a>
+                </div>
             </div>
         </section>
     );
