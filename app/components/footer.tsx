@@ -21,7 +21,7 @@ const Footer: React.FC = () => {
         <section id="footer">
             <motion.footer
                 ref={ref}
-                className="bg-red-600 text-white py-10 mt-10"
+                className="bg-red-600 text-white py-10"
                 initial="hidden"
                 animate={controls}
                 variants={{
