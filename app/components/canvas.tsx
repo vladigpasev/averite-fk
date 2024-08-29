@@ -66,7 +66,7 @@ const CanvasSection: React.FC = () => {
                     >
                         <div className="relative shadow-lg rounded-lg overflow-hidden">
                             <img
-                                src="/canvas-1.png"
+                                src="/canvas-2.png"
                                 alt="Канава изображение на клубна организация"
                                 className="w-full h-auto object-cover"
                             />
@@ -76,7 +76,7 @@ const CanvasSection: React.FC = () => {
 
                 <div className="flex justify-center mt-8">
                     <a
-                        href="https://miro.com/app/live-embed/uXjVKmCggJs=/?moveToViewport=-1002,-542,2080,1461&embedId=667524784953"
+                        href="https://miro.com/app/board/uXjVKmCggJs=/?share_link_id=723186315284"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-blue-600 text-white px-6 py-3 rounded-md text-lg font-semibold hover:bg-blue-700 transition duration-300"
